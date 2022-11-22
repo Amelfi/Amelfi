@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **React, Javascript and Redux**
 
-- 📫 How to reach me **amelfi89@gmail.com**
+- 📫 How to reach me? **amelfi89@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Amelfi/PI-Videogames](https://github.com/Amelfi/PI-Videogames)
 
