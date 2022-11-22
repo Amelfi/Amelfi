@@ -1,5 +1,5 @@
 <p align=""center><img src="https://www.digitalsolutionservices.com/img/services/website1.gif" alt="coding"/></p>
-<h1 align="center">Hi 👋, I'm Adán Amelfi Santana Rivas</h1>
+<h1 align="center">Hi 👋, I'm Amelfi</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **React Native, Typescript and Redux toolkit**
